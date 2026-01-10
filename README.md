@@ -1,16 +1,75 @@
-## Hi there 👋
+## 💡 About me
+
+I am a Software Engineer with over two years of experience building scalable and high-performance software solutions, as well as modular architectures. My primary expertise lies in Java and the Spring Framework, and spans cloud platforms such as AWS, Azure, Oracle, and GCP, as well as tools like Docker, Kubernetes, Rancher, and Datadog. Throughout my career, I have worked on impactful projects, particularly developing modular, event-driven architectures for Payments Solutions in the financial sector.
+
+🔧 Key Skills:
+
+- Java · Spring Boot · Spring Framework · Spring Cloud · Swagger (OpenApi)
+- Docker · Kubernetes · Maven · Postgresql · MongoDB · Redis · Kafka · AWS · RESTful APIs · Microservices · Serverless
+- JavaScript · TypeScript · ReactJS · HTML · CSS
+- GNU/Linux · Shell Script
+
+🌱 My leadership experience includes refining technical tasks, estimating effort, and mentoring junior developers, fostering a culture of continuous learning and improvement. 🔭 I am currently focused on enhancing my technical leadership and driving excellence in software engineering to deliver solutions that positively impact business outcomes.
+
+## Main Tech Stack
+
+<img align="left" alt="Java" title="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+<img align="left" alt="Spring" title="Spring" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="React" title="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Postgres" title="Postgres" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="AWS" title="AWS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Docker" title="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+<img align="left" alt="Kubernetes" title="Kubernetes" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+
+<br/>
+<br/>
+<br/>
+
+## Other Key Techs
+
+<img align="left" alt="Linux" title="Linux" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" title="Bash" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="Maven" title="Maven" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<img align="left" alt="Swagger" title="Swagger" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+<img align="left" alt="Redis" title="Redis" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+<img align="left" alt="Kafka" title="Kafka" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img align="left" alt="RabbitMQ" title="RabbitMQ" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Sonarqube" title="Sonarqube" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" />
+<img align="left" alt="Terraform" title="Terraform" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img align="left" alt="GithubActions" title="GithubActions" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="Jenkins" title="Jenkins" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="Prometheus" title="Prometheus" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Grafana" title="Grafana" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+<img align="left" alt="Datadog" title="Datadog" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+<br/>
+<br/>
+<br/>
 
 <!--
-**pedron98/pedron98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats
 
-Here are some ideas to get you started:
+<img align="left" alt="GitHub Stats" height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=pedron98&show_icons=true&theme=onedark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="left" alt="GitHub Stats" height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedron98&theme=onedark&layout-compact&custom_title=Technologies&langs_count=7" />
+
+<br/>
+<br/>
 -->
+
+## 📫 Let's connect
+
+<p align="left">
+  <a href="mailto:pedroaugusto.engineer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1B1F23?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedroaugusto-eng">
+    <img src="https://img.shields.io/badge/LinkedIn-ABD6FD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
