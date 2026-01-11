@@ -1,6 +1,17 @@
 ## 💡 About me
 
-I am a Software Engineer with over two years of experience building scalable and high-performance software solutions, as well as modular architectures. My primary expertise lies in Java and the Spring Framework, and spans cloud platforms such as AWS, Azure, Oracle, and GCP, as well as tools like Docker, Kubernetes, Rancher, and Datadog. Throughout my career, I have worked on impactful projects, particularly developing modular, event-driven architectures for Payments Solutions in the financial sector.
+Software Engineer with over two years of experience building scalable and high-performance software solutions, as well as modular architectures. My primary expertise lies in Java and the Spring Framework, and spans cloud platforms such as AWS, Azure, Oracle, and GCP, as well as tools like Docker, Kubernetes, Rancher, and Datadog. Throughout my career, I have worked on impactful projects, particularly developing modular, event-driven architectures for Payments Solutions in the financial sector.
+
+<p align="left">
+    <a href="mailto:pedroaugusto.engineer@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-1B1F23?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/pedroaugusto-eng">
+        <img src="https://img.shields.io/badge/LinkedIn-ABD6FD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
+
+---
 
 🔧 Key Skills:
 
@@ -9,46 +20,37 @@ I am a Software Engineer with over two years of experience building scalable and
 - JavaScript · TypeScript · ReactJS · HTML · CSS
 - GNU/Linux · Shell Script
 
-🌱 My leadership experience includes refining technical tasks, estimating effort, and mentoring junior developers, fostering a culture of continuous learning and improvement. 🔭 I am currently focused on enhancing my technical leadership and driving excellence in software engineering to deliver solutions that positively impact business outcomes.
+🌱 My leadership experience includes refining technical tasks, estimating effort, and mentoring junior developers, fostering a culture of continuous learning and improvement. I am currently focused on enhancing my technical leadership and driving excellence in software engineering to deliver solutions that positively impact business outcomes.
 
 ## Main Tech Stack
 
-<img align="left" alt="Java" title="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-<img align="left" alt="Spring" title="Spring" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="left" alt="React" title="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Postgres" title="Postgres" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="AWS" title="AWS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Docker" title="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-<img align="left" alt="Kubernetes" title="Kubernetes" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Java" title="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+<img align="left" alt="Spring" title="Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="Docker" title="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+<img align="left" alt="AWS" title="AWS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<br/>
-<br/>
-<br/>
+<br />
+<br />
 
 ## Other Key Techs
 
-<img align="left" alt="Linux" title="Linux" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" title="Bash" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Maven" title="Maven" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img align="left" alt="Swagger" title="Swagger" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-<img align="left" alt="Redis" title="Redis" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-<img align="left" alt="Kafka" title="Kafka" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
-<img align="left" alt="RabbitMQ" title="RabbitMQ" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
-<img align="left" alt="MongoDB" title="MongoDB" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Sonarqube" title="Sonarqube" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" />
-<img align="left" alt="Terraform" title="Terraform" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-<img align="left" alt="GithubActions" title="GithubActions" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-<img align="left" alt="Jenkins" title="Jenkins" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="Prometheus" title="Prometheus" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
-<img align="left" alt="Grafana" title="Grafana" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-<img align="left" alt="Datadog" title="Datadog" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Tailwind" title="Tailwind CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Linux" title="Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" title="Bash" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="Kubernetes" title="Kubernetes" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Swagger" title="Swagger" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+<img align="left" alt="Redis" title="Redis" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+<img align="left" alt="Kafka" title="Kafka" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Terraform" title="Terraform" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Jenkins" title="Jenkins" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="Prometheus" title="Prometheus" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Grafana" title="Grafana" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+<img align="left" alt="Datadog" title="Datadog" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" />
+<img align="left" alt="React" title="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Postgres" title="Postgres" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-<br/>
-<br/>
-<br/>
+<br />
+<br />
 
 <!--
 ## 📈 GitHub Stats
@@ -62,14 +64,3 @@ I am a Software Engineer with over two years of experience building scalable and
 <br/>
 <br/>
 -->
-
-## 📫 Let's connect
-
-<p align="left">
-  <a href="mailto:pedroaugusto.engineer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1B1F23?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pedroaugusto-eng">
-    <img src="https://img.shields.io/badge/LinkedIn-ABD6FD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
